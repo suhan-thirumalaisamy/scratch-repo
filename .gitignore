@@ -1,3 +1,5 @@
 .env*
 stream.txt
 output.txt
+node_modules/*
+.next/*
